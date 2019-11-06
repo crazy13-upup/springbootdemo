@@ -1,0 +1,7 @@
+server:
+  port: 8888
+
+user:
+  name: xiaoming
+  age: 18
+
